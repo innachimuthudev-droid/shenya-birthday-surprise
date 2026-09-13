@@ -1,0 +1,1 @@
+export const birthday={name:"Shenya",date:"2026-09-13",login:{name:"Shenya",password:"birthday2026"},idolAnswer:"Kim Taehyung"} as const;
